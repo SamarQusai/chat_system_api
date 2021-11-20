@@ -13,6 +13,8 @@ Requirements
 How to run
 --------
 ```bash
+**Note**  After running [chat-system](https://github.com/SamarQusai/chat-system) server.
+
 $ git clone git@github.com:SamarQusai/chat_system_api.git
 $ cd chat_system_api/
 $ go get
