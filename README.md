@@ -1,5 +1,6 @@
 # About Chat System
-* Simple endpoint to create chat for spceific application.
+* Simple endpoint to create chat for specific application.
+* **Note** This endpoints depend on [chat-system](https://github.com/SamarQusai/chat-system) repoistory, so you ought to run chat-sytem server first, to be able to consume this endpoint.
 
 Built With
 ------------
